@@ -1,0 +1,3132 @@
+fileFormatVersion: 2
+guid: 12921824c847e774c821ba1a85d98b5a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd01a66b560f8042b9da6fd7f8552ec
+      internalID: -1810303845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8161eff7b8f9f428dbd50249a9099d
+      internalID: -1806258753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9449e088cb6bbc64f9ac1106ccb095dd
+      internalID: 450669614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e349071a8834a3642ba3e3a158031383
+      internalID: 962729361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34786bfbf76f174fa0cd457dd4a9e69
+      internalID: -1873806586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc889a4f01ffa418cd9f089a3e3564
+      internalID: -184194429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ce451ffdde2d34bb9dde999f41fbc1
+      internalID: -504534492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39e1507967d305458efa688449c03e4
+      internalID: -947257829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664701738208c71479fbd0b6e9e500e9
+      internalID: 1972462107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e87351d1bdceab44be2c35913c45dde
+      internalID: -1502755476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b765c8bc3d09e45acae146f0fb786e
+      internalID: 284598685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2727c2629eab8ce42b7610c16c928c9e
+      internalID: 1136226615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596c12d508633f44d90ee11dfaa184fe
+      internalID: 1771259119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc855afe41c5c64984eae7a82fc9db4
+      internalID: -231065751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fbb1452fd35f249aa616731df7bbb5
+      internalID: 1629718721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6428b7a33dce44b389c1d976c4656
+      internalID: 605950717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803602de5e90e124895e7013d5392689
+      internalID: -132639840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31f564661ba573419c31c80a346b353
+      internalID: 897800208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8205b2091c3684d80efa89b2fd7081
+      internalID: -703768395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52b14dbca3438f4182bbf6b8f639e9e
+      internalID: 739911683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f993d44df3060bd41aa3ebb3b40298cd
+      internalID: -1404771406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 384
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b113c43501150468ab0470f50848ab
+      internalID: -528498192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6ea06a9665f844599ca92d790225b8
+      internalID: -363400695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e55ac367aa997d47bcd39e683808219
+      internalID: 1868500760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43300f9d171bb3d4aaee9f3359a4ce7a
+      internalID: 2120616362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098ca4458ba17da40b4ae92ade5df04c
+      internalID: -2020770827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce7085b2a2fc1b429c29f8143d58798
+      internalID: -312585593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d99ca64a5a53d478e6964856ab2566
+      internalID: 141252837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869ba930d0fa73b42904faa918092860
+      internalID: 1574155126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e4f037f1df256438110915ddd4d017
+      internalID: 1000967061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31badf184b011f746861e52ab6cf9420
+      internalID: 360465542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2225fac93d70d4f987480b97786605
+      internalID: 930830332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a45cc1104ffb22429512d8c48d33939
+      internalID: -1527346150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2846b5b63a3764496ceaaae7e9af76
+      internalID: 333327438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b730267606cf664ab72c80afc12be93
+      internalID: -1726124741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d68fee32fa5004abd965c9fab6b88b
+      internalID: -630353989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2f704db2fb7a54d934af6f2c63d580
+      internalID: 1886410557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7560203271bf3c540a1907164716d719
+      internalID: 1475239432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed49b27bfe411344c961b10ecfecc24e
+      internalID: -393518455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b986a4dcde34a4b84c0cbbe5bcac31
+      internalID: 940382459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55321563968536842bfa228185ca66fe
+      internalID: -895820102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac09b4c96194d5a49a0eae8ecb7dba41
+      internalID: 53050933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 320
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c1e9152c2829940b67cf5bf74369de
+      internalID: 1606071902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c4ca7dc5a1c0d4297bb140ca09c603
+      internalID: -53947620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d96fda48f4a98b49ad59937d310dc8c
+      internalID: 1878254106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b6de66009ff7647b50554667ce3ee9
+      internalID: 1996266736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928787f7d5e3bd640a82cebc4a53d8f6
+      internalID: -1675285428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a69568ddbcdd40a0aa19b98b0cd55
+      internalID: 1564138023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94944967cfef61c4aaaac98d7bf6bb02
+      internalID: -786915676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56524f10f0a95af4282ef79c38386a2f
+      internalID: 1002055623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2086ab9fada36d847a91a46c69bb28d3
+      internalID: 671492397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c66352bd2bea44890c1ed7a6ce9d25
+      internalID: -528210395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d0cc11a22d4cd48a46936281061cce
+      internalID: 677119523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_53
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5e8983823326d4d92f7d861047b852
+      internalID: -503836483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_54
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae40b12e131f8d47b68bca384aefe95
+      internalID: -1854381001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_55
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4a08c64056b0443b1915357c6251d0
+      internalID: 1298163048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_56
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae5948a0b8ce2e4685c618a684f9f7f
+      internalID: 1182090329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_57
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049edcd7a6f6d74f9713cd2b8993877
+      internalID: 1518694802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_58
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49621c77ace4c9e4a938525c62010d4f
+      internalID: -460627622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_59
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d896143693da9744dbc4c67acd92358c
+      internalID: -1194522283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_60
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be93b86b033569142831869268903922
+      internalID: -1756732517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_61
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fee389ef4302d442aea576a0eb41e1f
+      internalID: -1936683085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_62
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e1fc251c89e2148a0952e53be790d8
+      internalID: 1684568562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_63
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6999cb54ba6953e4ea536e71cdc6eb37
+      internalID: 842884687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_64
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417d458eab6e1e142b8af142496d40f5
+      internalID: 758019984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_65
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 256
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4be410870e6c14d8f35fabe4e19c58
+      internalID: -659420556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_66
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8d32788ab6bfc42b65f5934c80d3dd
+      internalID: -883685757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645132021a1d9004eab023a9ff84c01a
+      internalID: -1280675178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_68
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce831a9bae6c7954aa0f2f5c166be776
+      internalID: -2101065147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_69
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d84f82b26344d040b0879c6bdfbd229
+      internalID: -952597030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cebefb4e38f784b8c9b6c916bc8c0b
+      internalID: 1729837892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_71
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e558bbb69a32743b7243559bb65190
+      internalID: 2007633018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1ab1478e7e84d42afe162d4583d77f
+      internalID: -1807011171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_73
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c16bf1c6362ade40931df046e8e2af0
+      internalID: 306808568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_74
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd586c5c411ecd4d9790694c88d0928
+      internalID: -710652276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_75
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03d8410ae0ea824fb942b09eb461255
+      internalID: 952138780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_76
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef259d3c2d36e0349bd623ecfd84f03e
+      internalID: -831611610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_77
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830541706f8321344974bc4c82e9bc4b
+      internalID: 1215656178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_78
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3971f521b210844d8deb8d3301931c4
+      internalID: -92447448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_79
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbf85580155a1a44a3d08cff9a33297
+      internalID: 1733095071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_80
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9679910e01b14e6429b8132b96ad14b3
+      internalID: -2041312482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_81
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a935c639baa186647a0d381ff10df9f8
+      internalID: -229771003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_82
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb5387483d89264aa6f68abb757b1a5
+      internalID: -1098025489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_83
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55df86edea0d56a47acab84fc5895e22
+      internalID: -883276264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_84
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fa5588c2e6b1145a8106700a6031b5
+      internalID: -1331684910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_85
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed98b3502524e524380c1e105a7b3eba
+      internalID: -1959248642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_86
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48e8806e200d6b4eab6f72260f73842
+      internalID: -2055284392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_87
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c78b019017c58942b7a65f22abbb5fc
+      internalID: -459084485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_88
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 192
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a86d48443d764f4eb0ebc9cab4b1ce7
+      internalID: 432010118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_89
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea2101947b8754ebba0c5ebc273a41
+      internalID: -1454139352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_90
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4276d22023a13214c8913ea43e1a061a
+      internalID: -200162215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_91
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96666485af5afb745b31330d70ba806b
+      internalID: -611087271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e674e383748adc942805600f1b54e9e9
+      internalID: -807622110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ce3aab8ad46bc40bcc446014190710
+      internalID: -186332528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_94
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 128
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e5b581862d27c4d8e9d054c5254dd0
+      internalID: 1247285497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_95
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 111
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e6d8fd021cb47408d7d4d2df434ae0
+      internalID: 1834997320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_96
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f6683b788e9114cab94fb2d94bef6a
+      internalID: 1483232037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_97
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767c291f9b043234a919c0c525e45e9e
+      internalID: 518345938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_98
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f1421f141a48c428ea7503da685c91
+      internalID: -565157257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_99
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bafd0e4f9a79d46890f8e490f6bc82
+      internalID: -46762588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_100
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab17e61d24579f342820970f64c60d4c
+      internalID: -483005684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_101
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16776991f79a254488c1744bf735302e
+      internalID: -278595195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_102
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d873908e6815a5747942f0b8ff8a55ac
+      internalID: 1338422043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_103
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a1844bc4df1584384210f3f58f4cf8
+      internalID: -1088148134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_104
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a49b3388492db3419d5c7008a58d702
+      internalID: -1273858469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_105
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd3e6daeafc918409abe23e3506651a
+      internalID: 933150237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_106
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45de4e68cd147df4d834721f66341770
+      internalID: -1888801961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_107
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc53d20a5f39f44187ad95ce0d1571b
+      internalID: -299273597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_108
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08efc15e2a21c784ea227b8389877fff
+      internalID: -404435044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_109
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d619ca73f8cc447b4f0003426af639
+      internalID: 842313162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_110
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8cd5720133ab44ab843faac66ba135
+      internalID: -1195032662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 95
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebc8046e51455942a9b94b8b91333cc
+      internalID: -1159067291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617c69ceea291e8458eded8b1a1bc363
+      internalID: -254750768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_113
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 61
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10725424e8d7b342976bfdabfd4203a
+      internalID: 1085738697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_114
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 64
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc9122db6950d545b9e451f1f4915fd
+      internalID: -30105844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_115
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 64
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8eab76cb5b982448b7f652cbec3f40
+      internalID: 1904798949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_116
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 64
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ceeb260a520904d807c03c8a3984ee
+      internalID: -101825561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_117
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 67
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ae958512c476a42a0b36eac737da2f
+      internalID: -930175096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_118
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 64
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a628af4b40aec964581e68ab6cf43d64
+      internalID: 930906089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_119
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 64
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000bfe795922b6349867e7672b06292e
+      internalID: -1254799862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_120
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 64
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880e2e76a603eae4db48603fecb196f5
+      internalID: 166849717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_121
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 64
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56391a1c46c926c47bd939bda0218244
+      internalID: 698202804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_122
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e74bd2afe8c2c043b6b5b735eda25ab
+      internalID: -1123415841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_123
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f670d4e8e39a4814397569fb8cbeb3bd
+      internalID: -1173610838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_124
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff5190e495070c4583fd650adcd899a
+      internalID: 1561165699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_125
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d954d80ceb0e740a05978df7e6ed7e
+      internalID: -212479563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_126
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516b06911265f8f42a0a6507f8697cce
+      internalID: 294707621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_127
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 34
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fad2807b365ea4cac8071eb196010d
+      internalID: -1685777449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_128
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 33
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5290c7fcf2170a43b38b792ced44f65
+      internalID: 1498871851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_129
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfaf90a536aa9240a32eadc1eb53864
+      internalID: -740230134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_130
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aff4f915ed6ad4cadee52f05a2a12a
+      internalID: -1350670931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_131
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29218637a651bf64fb6597a059191cb3
+      internalID: 551276198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_132
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 23
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c550be66f59ab8f4c880d072d873e393
+      internalID: 2126828690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_133
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627984c6760697742bb3b8cfba3b8b82
+      internalID: 1784920368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_134
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f965b91885273469cec514b849e9cb
+      internalID: -949228409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileset - Copy_135
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ff9fffbc27b54d850344a9259d02c
+      internalID: -1786349084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cloud_tileset - Copy_0: -1810303845
+      cloud_tileset - Copy_1: -1806258753
+      cloud_tileset - Copy_10: 284598685
+      cloud_tileset - Copy_100: -483005684
+      cloud_tileset - Copy_101: -278595195
+      cloud_tileset - Copy_102: 1338422043
+      cloud_tileset - Copy_103: -1088148134
+      cloud_tileset - Copy_104: -1273858469
+      cloud_tileset - Copy_105: 933150237
+      cloud_tileset - Copy_106: -1888801961
+      cloud_tileset - Copy_107: -299273597
+      cloud_tileset - Copy_108: -404435044
+      cloud_tileset - Copy_109: 842313162
+      cloud_tileset - Copy_11: 1136226615
+      cloud_tileset - Copy_110: -1195032662
+      cloud_tileset - Copy_111: -1159067291
+      cloud_tileset - Copy_112: -254750768
+      cloud_tileset - Copy_113: 1085738697
+      cloud_tileset - Copy_114: -30105844
+      cloud_tileset - Copy_115: 1904798949
+      cloud_tileset - Copy_116: -101825561
+      cloud_tileset - Copy_117: -930175096
+      cloud_tileset - Copy_118: 930906089
+      cloud_tileset - Copy_119: -1254799862
+      cloud_tileset - Copy_12: 1771259119
+      cloud_tileset - Copy_120: 166849717
+      cloud_tileset - Copy_121: 698202804
+      cloud_tileset - Copy_122: -1123415841
+      cloud_tileset - Copy_123: -1173610838
+      cloud_tileset - Copy_124: 1561165699
+      cloud_tileset - Copy_125: -212479563
+      cloud_tileset - Copy_126: 294707621
+      cloud_tileset - Copy_127: -1685777449
+      cloud_tileset - Copy_128: 1498871851
+      cloud_tileset - Copy_129: -740230134
+      cloud_tileset - Copy_13: -231065751
+      cloud_tileset - Copy_130: -1350670931
+      cloud_tileset - Copy_131: 551276198
+      cloud_tileset - Copy_132: 2126828690
+      cloud_tileset - Copy_133: 1784920368
+      cloud_tileset - Copy_134: -949228409
+      cloud_tileset - Copy_135: -1786349084
+      cloud_tileset - Copy_14: 1629718721
+      cloud_tileset - Copy_15: 605950717
+      cloud_tileset - Copy_16: -132639840
+      cloud_tileset - Copy_17: 897800208
+      cloud_tileset - Copy_18: -703768395
+      cloud_tileset - Copy_19: 739911683
+      cloud_tileset - Copy_2: 450669614
+      cloud_tileset - Copy_20: -1404771406
+      cloud_tileset - Copy_21: -528498192
+      cloud_tileset - Copy_22: -363400695
+      cloud_tileset - Copy_23: 1868500760
+      cloud_tileset - Copy_24: 2120616362
+      cloud_tileset - Copy_25: -2020770827
+      cloud_tileset - Copy_26: -312585593
+      cloud_tileset - Copy_27: 141252837
+      cloud_tileset - Copy_28: 1574155126
+      cloud_tileset - Copy_29: 1000967061
+      cloud_tileset - Copy_3: 962729361
+      cloud_tileset - Copy_30: 360465542
+      cloud_tileset - Copy_31: 930830332
+      cloud_tileset - Copy_32: -1527346150
+      cloud_tileset - Copy_33: 333327438
+      cloud_tileset - Copy_34: -1726124741
+      cloud_tileset - Copy_35: -630353989
+      cloud_tileset - Copy_36: 1886410557
+      cloud_tileset - Copy_37: 1475239432
+      cloud_tileset - Copy_38: -393518455
+      cloud_tileset - Copy_39: 940382459
+      cloud_tileset - Copy_4: -1873806586
+      cloud_tileset - Copy_40: -895820102
+      cloud_tileset - Copy_41: 53050933
+      cloud_tileset - Copy_42: 1606071902
+      cloud_tileset - Copy_43: -53947620
+      cloud_tileset - Copy_44: 1878254106
+      cloud_tileset - Copy_45: 1996266736
+      cloud_tileset - Copy_46: -1675285428
+      cloud_tileset - Copy_47: 1564138023
+      cloud_tileset - Copy_48: -786915676
+      cloud_tileset - Copy_49: 1002055623
+      cloud_tileset - Copy_5: -184194429
+      cloud_tileset - Copy_50: 671492397
+      cloud_tileset - Copy_51: -528210395
+      cloud_tileset - Copy_52: 677119523
+      cloud_tileset - Copy_53: -503836483
+      cloud_tileset - Copy_54: -1854381001
+      cloud_tileset - Copy_55: 1298163048
+      cloud_tileset - Copy_56: 1182090329
+      cloud_tileset - Copy_57: 1518694802
+      cloud_tileset - Copy_58: -460627622
+      cloud_tileset - Copy_59: -1194522283
+      cloud_tileset - Copy_6: -504534492
+      cloud_tileset - Copy_60: -1756732517
+      cloud_tileset - Copy_61: -1936683085
+      cloud_tileset - Copy_62: 1684568562
+      cloud_tileset - Copy_63: 842884687
+      cloud_tileset - Copy_64: 758019984
+      cloud_tileset - Copy_65: -659420556
+      cloud_tileset - Copy_66: -883685757
+      cloud_tileset - Copy_67: -1280675178
+      cloud_tileset - Copy_68: -2101065147
+      cloud_tileset - Copy_69: -952597030
+      cloud_tileset - Copy_7: -947257829
+      cloud_tileset - Copy_70: 1729837892
+      cloud_tileset - Copy_71: 2007633018
+      cloud_tileset - Copy_72: -1807011171
+      cloud_tileset - Copy_73: 306808568
+      cloud_tileset - Copy_74: -710652276
+      cloud_tileset - Copy_75: 952138780
+      cloud_tileset - Copy_76: -831611610
+      cloud_tileset - Copy_77: 1215656178
+      cloud_tileset - Copy_78: -92447448
+      cloud_tileset - Copy_79: 1733095071
+      cloud_tileset - Copy_8: 1972462107
+      cloud_tileset - Copy_80: -2041312482
+      cloud_tileset - Copy_81: -229771003
+      cloud_tileset - Copy_82: -1098025489
+      cloud_tileset - Copy_83: -883276264
+      cloud_tileset - Copy_84: -1331684910
+      cloud_tileset - Copy_85: -1959248642
+      cloud_tileset - Copy_86: -2055284392
+      cloud_tileset - Copy_87: -459084485
+      cloud_tileset - Copy_88: 432010118
+      cloud_tileset - Copy_89: -1454139352
+      cloud_tileset - Copy_9: -1502755476
+      cloud_tileset - Copy_90: -200162215
+      cloud_tileset - Copy_91: -611087271
+      cloud_tileset - Copy_92: -807622110
+      cloud_tileset - Copy_93: -186332528
+      cloud_tileset - Copy_94: 1247285497
+      cloud_tileset - Copy_95: 1834997320
+      cloud_tileset - Copy_96: 1483232037
+      cloud_tileset - Copy_97: 518345938
+      cloud_tileset - Copy_98: -565157257
+      cloud_tileset - Copy_99: -46762588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

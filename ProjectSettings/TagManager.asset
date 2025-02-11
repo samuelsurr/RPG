@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - breakable
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - SolidObjects
+  - Interactable
+  - breakable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Border
+    uniqueID: 3418996437
+    locked: 0
+  - name: Sky background
+    uniqueID: 4100485263
+    locked: 0
+  - name: Background
+    uniqueID: 1920835021
+    locked: 0
+  - name: Foreground
+    uniqueID: 1482514081
+    locked: 0
+  - name: Player
+    uniqueID: 2888060079
+    locked: 0
+  - name: Above Phase
+    uniqueID: 2111583249
+    locked: 0
+  - name: AP2
+    uniqueID: 755179603
+    locked: 0
