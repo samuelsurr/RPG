@@ -5,7 +5,7 @@
 
 This game is a work in progress game that I decided to work on with no time limit. I want to finish this game when I have the chance so I will document the updates as I go.
 
-![Game Logo](images/rpgGame.png)
+![Game Logo](rpgGame.png)
 
 ## Features
 
@@ -22,7 +22,7 @@ This game is a work in progress game that I decided to work on with no time limi
 
 ## License
 
-[MIT](LICENSE)
+Licensed under the [MIT License](LICENSE.txt)
 
 ## Contact
 
